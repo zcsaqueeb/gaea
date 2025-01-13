@@ -1,5 +1,6 @@
 ```
-git clone
+git clone https://github.com/zainarain279/aigaea-net.git
+cd aigaea-net
 ```
 
 ```
@@ -23,8 +24,9 @@ tokens.txt stores token information to run the node:
   localstorage => gaea_token (image below)⬇️ )
 
 - Or through the console tab => paste:
--```
-- localStorage.getItem('gaea_token');
-- ```
+
+```
+localStorage.getItem('gaea_token');
+```
 
   
