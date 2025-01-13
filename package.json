@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "license": "ISC"
+}
